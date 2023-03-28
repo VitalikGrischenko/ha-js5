@@ -1,3 +1,3 @@
 let fullName = "Dio Jotarian";
-let spaceIndex = fullName.indexOf("o");
+let spaceIndex = fullName.indexOf(" ");
 console.log(spaceIndex);
